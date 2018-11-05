@@ -206,5 +206,58 @@ img {
   padding-bottom: 40px;
   background: url("../images/technical.jpg") no-repeat center;
   background-size: cover; }
+  .technical-heading {
+    font-family: "UTM Times", sans-serif;
+    font-size: 34px;
+    text-transform: uppercase;
+    margin-bottom: 50px; }
+    .technical-heading span {
+      font-size: 50px;
+      display: block; }
+  .technical-description {
+    font-family: "OpenSans", sans-serif;
+    font-size: 16px;
+    line-height: 24px; }
+  .technical-img {
+    width: 100%; }
+  .technical-title {
+    font-family: "UTM Times", sans-serif;
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px; }
+  .technical-sapo {
+    font-family: "OpenSans", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 20px auto 0;
+    text-align: center;
+    padding: 0 30px; }
+
+.reason {
+  font-family: "UTM Times", sans-serif;
+  padding-top: 60px;
+  padding-bottom: 150px; }
+  .reason-heading {
+    font-size: 34px;
+    color: #efba09;
+    text-transform: uppercase;
+    margin: 0 auto 25px; }
+  .reason-description {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center; }
+  .reason-item .table {
+    height: 60%; }
+  .reason-img img {
+    width: 100%; }
+  .reason-title {
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center; }
+  .reason-sapo {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
